@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the University of Alberta's NEMO page
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
